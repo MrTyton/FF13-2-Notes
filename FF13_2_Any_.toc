@@ -1,0 +1,28 @@
+\contentsline {chapter}{\numberline {1}Prologue}{}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}Neo Bodhum 003AF}{}{chapter.2}% 
+\contentsline {chapter}{\numberline {3}Bresha Ruins 005AF}{}{chapter.3}% 
+\contentsline {chapter}{\numberline {4}New Bodhum 003AF}{}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}Bresha Ruins 005AF}{}{chapter.5}% 
+\contentsline {chapter}{\numberline {6}Yaschas Massif 010AF}{}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Sunleth Waterscape 300AF}{}{chapter.7}% 
+\contentsline {chapter}{\numberline {8}Colosseum ???AF}{}{chapter.8}% 
+\contentsline {chapter}{\numberline {9}Sunleth Waterscape 300AF}{}{chapter.9}% 
+\contentsline {chapter}{\numberline {10}Archlyte Steppe ???AF}{}{chapter.10}% 
+\contentsline {chapter}{\numberline {11}Sunleth Waterscape 300AF}{}{chapter.11}% 
+\contentsline {chapter}{\numberline {12}Oerba 200AF}{}{chapter.12}% 
+\contentsline {chapter}{\numberline {13}Yaschas Massif 01XAF}{}{chapter.13}% 
+\contentsline {chapter}{\numberline {14}Augusta Tower 300AF}{}{chapter.14}% 
+\contentsline {chapter}{\numberline {15}Yaschas Massif 01XAF}{}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Void Beyond ??? AF}{}{chapter.16}% 
+\contentsline {chapter}{\numberline {17}Serendipity ???AF}{}{chapter.17}% 
+\contentsline {chapter}{\numberline {18}Archlyte Steppe ???AF}{}{chapter.18}% 
+\contentsline {chapter}{\numberline {19}Academia 400F}{}{chapter.19}% 
+\contentsline {chapter}{\numberline {20}Augusta Tower 200AF}{}{chapter.20}% 
+\contentsline {chapter}{\numberline {21}Academia 400F}{}{chapter.21}% 
+\contentsline {chapter}{\numberline {22}Yaschas Massif 100AF}{}{chapter.22}% 
+\contentsline {chapter}{\numberline {23}Academia 4XXAF}{}{chapter.23}% 
+\contentsline {chapter}{\numberline {24}Void Beyond ??? AF}{}{chapter.24}% 
+\contentsline {chapter}{\numberline {25}Dying World 700AF}{}{chapter.25}% 
+\contentsline {chapter}{\numberline {26}New Bodhum 700AF}{}{chapter.26}% 
+\contentsline {chapter}{\numberline {27}Serendipity ???AF}{}{chapter.27}% 
+\contentsline {chapter}{\numberline {28}Academia 500F}{}{chapter.28}% 
